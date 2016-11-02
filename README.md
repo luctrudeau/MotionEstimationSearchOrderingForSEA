@@ -3,9 +3,7 @@ This is the authors version of :
 L. Trudeau, S. Coulombe, and C. Desrosiers, “[Rate distortion-based motion estimation search ordering 
 for rate-constrained successive elimination algorithms](http://espace2.etsmtl.ca/10022/1/Coulombe%20S.%202014%2010022%20Rate%20Distortion-Based%20Motion%20Estimation%20Search.pdf)” 
 In 2014 IEEE International Conference on Image Processing (ICIP) (Paris, France, Oct. 27-30, 2014), 
-pp. 3175-3179. Institute of Electrical and Electronics Engineers.
-
-[http://dx.doi.org/10.1109/icip.2014.7025642](http://dx.doi.org/10.1109/icip.2014.7025642)
+pp. 3175-3179. Institute of Electrical and Electronics Engineers. [http://dx.doi.org/10.1109/icip.2014.7025642](http://dx.doi.org/10.1109/icip.2014.7025642)
 
 ##BibTeX
 ```
