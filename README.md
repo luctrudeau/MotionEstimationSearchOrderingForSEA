@@ -5,6 +5,8 @@ for rate-constrained successive elimination algorithms](http://espace2.etsmtl.ca
 In 2014 IEEE International Conference on Image Processing (ICIP) (Paris, France, Oct. 27-30, 2014), 
 pp. 3175-3179. Institute of Electrical and Electronics Engineers.
 
+[http://dx.doi.org/10.1109/icip.2014.7025642](http://dx.doi.org/10.1109/icip.2014.7025642)
+
 ##BibTeX
 ```
 @INPROCEEDINGS{Trudeau14, 
@@ -21,3 +23,10 @@ month={Oct},}
 
 ## Abstract
 > In this paper, we propose a new class of search ordering algorithms to reduce the computational cost of motion estimation in video coding. We show that conventional search orderings, such as spiral search, can weaken the filtering criterion of rate-constrained successive elimination algorithms. Based on this new insight, we derive a new search ordering that takes into account the impact of the rate constraint. Our simulation results demonstrate that, on average, the amount of SAD operations required to encode the tested sequences, is reduced by 2.86%, when compared to the H.264 JM reference software's implementation of spiral search. For sequences with unpredictable motion, this reduction is greater than 5% and can exceed 10% when smaller block partitions are evaluated.
+
+## Copyright
+© 2014 IEEE. Personal use of this material is permitted. Permission from IEEE must be
+obtained for all other uses, in any current or future media, including
+reprinting/republishing this material for advertising or promotional purposes, creating new
+collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted
+component of this work in other works.
